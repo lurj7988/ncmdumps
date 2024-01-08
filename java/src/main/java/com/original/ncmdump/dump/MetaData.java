@@ -1,9 +1,9 @@
-package io.qaralotte.ncmdump.dump;
+package com.original.ncmdump.dump;
 
 import com.alibaba.fastjson2.JSON;
 import com.alibaba.fastjson2.JSONArray;
 import com.alibaba.fastjson2.JSONObject;
-import io.qaralotte.ncmdump.utils.StringUtils;
+import com.original.ncmdump.utils.StringUtils;
 
 import java.util.Arrays;
 

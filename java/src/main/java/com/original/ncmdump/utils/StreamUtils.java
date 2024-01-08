@@ -1,4 +1,4 @@
-package io.qaralotte.ncmdump.utils;
+package com.original.ncmdump.utils;
 
 import java.io.*;
 

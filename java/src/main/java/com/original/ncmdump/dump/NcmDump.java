@@ -1,10 +1,10 @@
-package io.qaralotte.ncmdump.dump;
+package com.original.ncmdump.dump;
 
 import com.alibaba.fastjson2.JSONObject;
-import io.qaralotte.ncmdump.utils.DecryptUtils;
-import io.qaralotte.ncmdump.utils.ErrorUtils;
-import io.qaralotte.ncmdump.utils.StreamUtils;
-import io.qaralotte.ncmdump.utils.StringUtils;
+import com.original.ncmdump.utils.DecryptUtils;
+import com.original.ncmdump.utils.ErrorUtils;
+import com.original.ncmdump.utils.StreamUtils;
+import com.original.ncmdump.utils.StringUtils;
 import org.jaudiotagger.audio.AudioFile;
 import org.jaudiotagger.audio.exceptions.CannotReadException;
 import org.jaudiotagger.audio.exceptions.CannotWriteException;

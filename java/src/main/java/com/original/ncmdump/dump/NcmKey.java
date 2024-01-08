@@ -1,4 +1,4 @@
-package io.qaralotte.ncmdump.dump;
+package com.original.ncmdump.dump;
 
 public class NcmKey {
 
