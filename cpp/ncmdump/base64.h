@@ -2,6 +2,7 @@
 #define _MACARON_BASE64_H_
 
 #include <string>
+#include <cstdint>
 
 static const char sEncodingTable[] = {
   'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H',
